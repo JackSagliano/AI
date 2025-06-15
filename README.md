@@ -22,7 +22,7 @@ This project provides a Google Colab notebook designed to fine-tune a language m
 - **QLoRA** for memory-efficient fine-tuning
 - **BitsAndBytes** for 4-bit quantization
 - **PEFT** (Parameter-Efficient Fine-Tuning)
-- Code evaluation using AST similarity, `pylint`, and `radon` metrics
+- Code evaluation using code similarity (between our model's solution and the canonical one), `pylint`, and `radon` metrics
 
 ## 📦 Main Libraries
 
