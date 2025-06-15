@@ -45,9 +45,6 @@ This project provides a Google Colab notebook designed to fine-tune a language m
 - `.json` files with generated outputs and evaluation scores
 - Automatic quality reports on model generations
 
-## 👥 Authors & Credits
-
-This project was developed as part of an academic exploration of AI-driven code generation using state-of-the-art open-source tools.
 
 ---
 
